@@ -1,0 +1,73 @@
+.tile,
+.button {
+  margin: 8px;
+}
+
+.click {
+  background: none;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 0 0 4px;
+  padding: 4px;
+  cursor: pointer;
+  transform: translateZ(0);
+}
+
+.click::before {
+  background-color: white;
+  border: 2px solid rgb(106, 156, 222);
+  border-radius: 16px;
+  bottom: 0;
+  box-shadow: rgb(106, 156, 222) 0px 4px 0px 0px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: box-shadow 0 0 all ease;
+  z-index: -1;
+}
+
+.click:hover {
+  filter: brightness(1.05);
+}
+
+.click:active {
+  transform: matrix(1, 0, 0, 1, 0, 5);
+}
+
+.click:active::before {
+  box-shadow: none;
+}
+
+.no_click {
+  background: none;
+  border-color: transparent;
+  border-radius: 16px;
+  border-style: solid;
+  border-width: 0 0 4px;
+  padding: 4px;
+  cursor: pointer;
+  transform: translateZ(0);
+}
+
+.no_click::before {
+  background-color: white;
+  border: 2px solid white;
+  box-shadow: white 0px 4px 0px 0px;
+
+  border-radius: 16px;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: box-shadow 0 0 all ease;
+  z-index: -1;
+}
+
+.grey::before {
+  border: 2px solid lightgrey;
+  box-shadow: lightgrey 0px 4px 0px 0px;
+}

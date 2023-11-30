@@ -1,0 +1,392 @@
+[
+  {
+    "id": 0,
+    "capital": "Ա",
+    "small": "ա",
+    "soundFile": "1.mp3",
+    "ipaSound": "ɑ",
+    "name": "Այբ",
+    "transcribe": "a",
+    "russianSound": "а"
+  },
+  {
+    "id": 1,
+    "capital": "Բ",
+    "small": "բ",
+    "soundFile": "2.mp3",
+    "ipaSound": "b",
+    "name": "Բեն",
+    "transcribe": "b",
+    "russianSound": "б"
+  },
+  {
+    "id": 2,
+    "capital": "Գ",
+    "small": "գ",
+    "soundFile": "3.mp3",
+    "ipaSound": "ɡ",
+    "name": "Գիմ",
+    "transcribe": "g",
+    "russianSound": "г"
+  },
+  {
+    "id": 3,
+    "capital": "Դ",
+    "small": "դ",
+    "soundFile": "4.mp3",
+    "ipaSound": "d",
+    "name": "Դալ",
+    "transcribe": "d",
+    "russianSound": "д"
+  },
+  {
+    "id": 4,
+    "capital": "Ե",
+    "small": "ե",
+    "soundFile": "5.mp3",
+    "ipaSound": "ɛ",
+    "name": "Եչ",
+    "transcribe": "e",
+    "russianSound": "е"
+  },
+  {
+    "id": 5,
+    "capital": "Զ",
+    "small": "զ",
+    "soundFile": "6.mp3",
+    "ipaSound": "z",
+    "name": "Զա",
+    "transcribe": "z",
+    "russianSound": "з"
+  },
+  {
+    "id": 6,
+    "capital": "Է",
+    "small": "է",
+    "soundFile": "7.mp3",
+    "ipaSound": "e",
+    "name": "Էշ",
+    "transcribe": "e'",
+    "russianSound": "э"
+  },
+  {
+    "id": 7,
+    "capital": "Ը",
+    "small": "ը",
+    "soundFile": "8.mp3",
+    "ipaSound": "ə",
+    "name": "Ըթ",
+    "transcribe": "y'",
+    "russianSound": "ы"
+  },
+  {
+    "id": 8,
+    "capital": "Թ",
+    "small": "թ",
+    "soundFile": "9.mp3",
+    "ipaSound": "tʰ",
+    "name": "Թո",
+    "transcribe": "t'",
+    "russianSound": "т"
+  },
+  {
+    "id": 9,
+    "capital": "Ժ",
+    "small": "ժ",
+    "soundFile": "10.mp3",
+    "ipaSound": "ʒ",
+    "name": "Ժե",
+    "transcribe": "jh",
+    "russianSound": "ж"
+  },
+  {
+    "id": 10,
+    "capital": "Ի",
+    "small": "ի",
+    "soundFile": "20.mp3",
+    "ipaSound": "i",
+    "name": "Իչ",
+    "transcribe": "i",
+    "russianSound": "и"
+  },
+  {
+    "id": 11,
+    "capital": "Լ",
+    "small": "լ",
+    "soundFile": "30.mp3",
+    "ipaSound": "l",
+    "name": "Լեզ",
+    "transcribe": "l",
+    "russianSound": "л"
+  },
+  {
+    "id": 12,
+    "capital": "Խ",
+    "small": "խ",
+    "soundFile": "40.mp3",
+    "ipaSound": "χ",
+    "name": "Խե",
+    "transcribe": "x",
+    "russianSound": "х"
+  },
+  {
+    "id": 13,
+    "capital": "Ծ",
+    "small": "ծ",
+    "soundFile": "50.mp3",
+    "ipaSound": "t͡s",
+    "name": "Ծէ",
+    "transcribe": "c'",
+    "russianSound": "ц"
+  },
+  {
+    "id": 14,
+    "capital": "Կ",
+    "small": "կ",
+    "soundFile": "60.mp3",
+    "ipaSound": "k",
+    "name": "Կէ",
+    "transcribe": "k",
+    "russianSound": "к"
+  },
+  {
+    "id": 15,
+    "capital": "Հ",
+    "small": "հ",
+    "soundFile": "70.mp3",
+    "ipaSound": "h",
+    "name": "Հէ",
+    "transcribe": "h",
+    "russianSound": "h"
+  },
+  {
+    "id": 16,
+    "capital": "Ձ",
+    "small": "ձ",
+    "soundFile": "80.mp3",
+    "ipaSound": "d͡z",
+    "name": "Ձէ",
+    "transcribe": "d'",
+    "russianSound": "дз"
+  },
+  {
+    "id": 17,
+    "capital": "Ղ",
+    "small": "ղ",
+    "soundFile": "90.mp3",
+    "ipaSound": "l",
+    "name": "Ղէ",
+    "transcribe": "gh",
+    "russianSound": "кх"
+  },
+  {
+    "id": 18,
+    "capital": "Ճ",
+    "small": "ճ",
+    "soundFile": "100.mp3",
+    "ipaSound": "t͡ʃ",
+    "name": "Ճէ",
+    "transcribe": "tw",
+    "russianSound": "ч"
+  },
+  {
+    "id": 19,
+    "capital": "Մ",
+    "small": "մ",
+    "soundFile": "200.mp3",
+    "ipaSound": "m",
+    "name": "Մէ",
+    "transcribe": "m",
+    "russianSound": "м"
+  },
+  {
+    "id": 20,
+    "capital": "Յ",
+    "small": "յ",
+    "soundFile": "300.mp3",
+    "ipaSound": "j",
+    "name": "Յէ",
+    "transcribe": "y",
+    "russianSound": "й"
+  },
+  {
+    "id": 21,
+    "capital": "Ն",
+    "small": "ն",
+    "soundFile": "400.mp3",
+    "ipaSound": "n",
+    "name": "Նէ",
+    "transcribe": "n",
+    "russianSound": "н"
+  },
+  {
+    "id": 22,
+    "capital": "Շ",
+    "small": "շ",
+    "soundFile": "500.mp3",
+    "ipaSound": "ʃ",
+    "name": "Շէ",
+    "transcribe": "sh",
+    "russianSound": "ш"
+  },
+  {
+    "id": 23,
+    "capital": "Ո",
+    "small": "ո",
+    "soundFile": "600.mp3",
+    "ipaSound": "o",
+    "name": "Ոէ",
+    "transcribe": "o",
+    "russianSound": "во"
+  },
+  {
+    "id": 24,
+    "capital": "Չ",
+    "small": "չ",
+    "soundFile": "700.mp3",
+    "ipaSound": "t͡ʃʰ",
+    "name": "Չէ",
+    "transcribe": "ch",
+    "russianSound": "ч"
+  },
+  {
+    "id": 25,
+    "capital": "Պ",
+    "small": "պ",
+    "soundFile": "800.mp3",
+    "ipaSound": "p",
+    "name": "Պէ",
+    "transcribe": "p",
+    "russianSound": "п"
+  },
+  {
+    "id": 26,
+    "capital": "Ջ",
+    "small": "ջ",
+    "soundFile": "900.mp3",
+    "ipaSound": "d͡ʒ",
+    "name": "Ջէ",
+    "transcribe": "j",
+    "russianSound": "дж"
+  },
+  {
+    "id": 27,
+    "capital": "Ռ",
+    "small": "ռ",
+    "soundFile": "1000.mp3",
+    "ipaSound": "r",
+    "name": "Ռէ",
+    "transcribe": "r'",
+    "russianSound": "р"
+  },
+  {
+    "id": 28,
+    "capital": "Ս",
+    "small": "ս",
+    "soundFile": "2000.mp3",
+    "ipaSound": "s",
+    "name": "Սէ",
+    "transcribe": "s",
+    "russianSound": "с"
+  },
+  {
+    "id": 29,
+    "capital": "Վ",
+    "small": "վ",
+    "soundFile": "3000.mp3",
+    "ipaSound": "v",
+    "name": "Վէ",
+    "transcribe": "v",
+    "russianSound": "в"
+  },
+  {
+    "id": 30,
+    "capital": "Տ",
+    "small": "տ",
+    "soundFile": "4000.mp3",
+    "ipaSound": "t",
+    "name": "Տէ",
+    "transcribe": "t",
+    "russianSound": "т"
+  },
+  {
+    "id": 31,
+    "capital": "Ր",
+    "small": "ր",
+    "soundFile": "5000.mp3",
+    "ipaSound": "ɹ",
+    "name": "Րէ",
+    "transcribe": "r",
+    "russianSound": "р"
+  },
+  {
+    "id": 32,
+    "capital": "Ց",
+    "small": "ց",
+    "soundFile": "6000.mp3",
+    "ipaSound": "tsʰ",
+    "name": "Ցէ",
+    "transcribe": "c",
+    "russianSound": "ц"
+  },
+  {
+    "id": 33,
+    "capital": "ՈՒ",
+    "small": "ու",
+    "soundFile": "30000.mp3",
+    "ipaSound": "u",
+    "name": "Հիւն",
+    "transcribe": "u",
+    "russianSound": "у"
+  },
+  {
+    "id": 34,
+    "capital": "Փ",
+    "small": "փ",
+    "soundFile": "8000.mp3",
+    "ipaSound": "pʰ",
+    "name": "Փէ",
+    "transcribe": "p'",
+    "russianSound": "п"
+  },
+  {
+    "id": 35,
+    "capital": "Ք",
+    "small": "ք",
+    "soundFile": "9000.mp3",
+    "ipaSound": "kʰ",
+    "name": "Քէ",
+    "transcribe": "q",
+    "russianSound": "л"
+  },
+  {
+    "id": 36,
+    "capital": "և",
+    "small": "և",
+    "soundFile": "40000.mp3",
+    "ipaSound": "ev",
+    "name": "Եւ",
+    "transcribe": "&",
+    "russianSound": "ев"
+  },
+  {
+    "id": 37,
+    "capital": "Օ",
+    "small": "օ",
+    "soundFile": "10000.mp3",
+    "ipaSound": "o",
+    "name": "Օէ",
+    "transcribe": "o'",
+    "russianSound": "о"
+  },
+  {
+    "id": 38,
+    "capital": "Ֆ",
+    "small": "ֆ",
+    "soundFile": "20000.mp3",
+    "ipaSound": "f",
+    "name": "Ֆէ",
+    "transcribe": "f",
+    "russianSound": "ф"
+  }
+]

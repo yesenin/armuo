@@ -1,0 +1,71 @@
+.letter_tile {
+  padding: 8px;
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2px;
+  word-spacing: -8px;
+  line-height: 1.5;
+}
+
+.letter_itself {
+  font-size: 22pt;
+  font-family: "SerifHy2";
+}
+
+.add {
+  margin-top: 20px;
+  font-size: 9pt;
+  font-family: "MonoHy2", monospace;
+}
+
+.arm1 {
+  font-family: "OldHy";
+  text-transform: lowercase;
+  font-size: 36pt;
+  font-weight: normal;
+}
+
+.arm2 {
+  font-family: "HandHy";
+  font-size: 26pt;
+  font-weight: normal;
+}
+
+.arm3 {
+  font-family: "SquareHy";
+  text-transform: uppercase;
+  font-size: 32pt;
+}
+
+.arm4 {
+  font-family: "TumanianHy";
+  font-size: 36pt;
+}
+
+.arm5 {
+  font-family: "SansHy";
+}
+
+.arm6 {
+  font-family: "SerifHy2";
+}
+
+.letter_rt {
+  font-size: 9pt;
+  font-family: "SansHy", monospace;
+  letter-spacing: 0px;
+  color: grey;
+}
+
+.bold {
+  color: rgb(255, 98, 98);
+  font-weight: bold;
+}
+
+.red::before {
+  border: 2px solid pink;
+  box-shadow: pink 0px 4px 0px 0px;
+}

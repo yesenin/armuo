@@ -1,0 +1,58 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "OldHy";
+  src: url("./fonts/old_hy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TumanianHy";
+  src: url("./fonts/tumanian_hy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SerifHy2";
+  src: url("./fonts/serif_hy_2.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SansHy";
+  src: url("./fonts/sans_hy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SquareHy";
+  src: url("./fonts/square_hy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "HandHy";
+  src: url("./fonts/hand_hy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MonoHy";
+  src: url("./fonts/mono_hy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MonoHy2";
+  src: url("./fonts/mono_hy_2.ttf") format("truetype");
+}
