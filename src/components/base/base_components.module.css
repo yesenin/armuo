@@ -16,9 +16,9 @@
 .click::before {
   background-color: white;
   border: 2px solid rgb(106, 156, 222);
+  box-shadow: rgb(106, 156, 222) 0px 4px 0px 0px;
   border-radius: 16px;
   bottom: 0;
-  box-shadow: rgb(106, 156, 222) 0px 4px 0px 0px;
   content: "";
   left: 0;
   position: absolute;
@@ -32,10 +32,12 @@
   filter: brightness(1.05);
 }
 
+.toggle,
 .click:active {
   transform: matrix(1, 0, 0, 1, 0, 5);
 }
 
+.toggle::before,
 .click:active::before {
   box-shadow: none;
 }

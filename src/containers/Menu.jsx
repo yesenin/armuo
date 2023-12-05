@@ -12,6 +12,12 @@ const Menu = () => {
         <li>
           <Link to="/abc">Alphabet</Link>
         </li>
+        <li>
+          <Link to="/123">Numbers</Link>
+        </li>
+      <li>
+          <Link to="/game/main">Main game</Link>
+      </li>
       </ul>
     </div>
   );

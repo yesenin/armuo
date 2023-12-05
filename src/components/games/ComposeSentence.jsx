@@ -1,5 +1,4 @@
 import React from "react";
-import Tile from "../base/Tile";
 import styles from "./games.module.css";
 import DuoButton from "../base/DuoButton";
 import _ from "lodash";

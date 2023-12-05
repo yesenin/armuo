@@ -21,6 +21,12 @@
   font-family: "MonoHy2", monospace;
 }
 
+.add2 {
+  margin-top: 9px;
+  font-size: 10pt;
+  font-family: "SerifHy2", serif;
+}
+
 .arm1 {
   font-family: "OldHy";
   text-transform: lowercase;
@@ -56,8 +62,9 @@
 .letter_rt {
   font-size: 9pt;
   font-family: "SansHy", monospace;
-  letter-spacing: 0px;
+  letter-spacing: initial;
   color: grey;
+  text-transform: initial;
 }
 
 .bold {

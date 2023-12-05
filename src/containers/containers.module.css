@@ -19,8 +19,26 @@
   height: 10%;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+
+  font-family: "TitanOne-Regular", sans-serif;
+  font-size: 22pt;
+}
+
+.game_table {
+  border: 1px solid grey;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 8px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: indianred;
 }
 
 .game_content {

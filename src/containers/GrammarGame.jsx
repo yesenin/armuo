@@ -2,8 +2,14 @@ import React from "react";
 import MatchWords from "../components/games/MatchWords";
 import ComposeSentence from "../components/games/ComposeSentence";
 import _ from "lodash";
+import Calendar from "../components/games/Calendar";
 
-const alphabetGameModes = ["ComposeSentence", "MatchWords"];
+const alphabetGameModes = [
+  "ComposeSentence",
+  "MatchWords",
+  "Calendar",
+  "ChooseNumber",
+];
 
 class GrammarGame extends React.Component {
   constructor(props) {
@@ -23,6 +29,9 @@ class GrammarGame extends React.Component {
         break;
       case "MatchWords":
         gameComponent = <MatchWords />;
+        break;
+      case "Calendar":
+        gameComponent = <Calendar />;
         break;
       default:
         gameComponent = <h1>Unknown game mode: {mode}</h1>;

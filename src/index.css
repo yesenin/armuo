@@ -56,3 +56,8 @@ code {
   font-family: "MonoHy2";
   src: url("./fonts/mono_hy_2.ttf") format("truetype");
 }
+
+@font-face {
+  font-family: "TitanOne-Regular";
+  src: url("./fonts/TitanOne-Regular.ttf") format("truetype");
+}

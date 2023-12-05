@@ -1,5 +1,4 @@
 import React from "react";
-import Tile from "./base/Tile";
 
 import styles from "./components.module.css";
 import DuoButton from "./base/DuoButton";
@@ -33,9 +32,9 @@ const LetterTile = ({ letter, fontClass }) => {
       fontStyle = styles.arm6;
   }
 
-  const audioFolder = "audio";
+  const audioFolder = "audio/letters";
   const letterText =
-    fontClass === "arm1" || letter.small == letter.capital
+    fontClass === "arm1" || letter.small === letter.capital
       ? letter.small
       : `${letter.capital} ${letter.small}`;
   const isHard = letter.hard;
